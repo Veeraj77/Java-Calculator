@@ -1,8 +1,8 @@
 # Java-Calculator
-Overview
+## Overview
 This repository contains a Java-based Calculator application that supports basic arithmetic operations, Fibonacci series generation, and array-based operations such as sum and mean calculations. The program is interactive, prompting the user for inputs and then displaying results based on the chosen operation.
 
-Classes and Methods-
+## Classes and Methods-
 1. Calculator Class
    The Calculator class defines various methods for arithmetic and array operations:
    1.addition()-Adds two numbers entered by the user
